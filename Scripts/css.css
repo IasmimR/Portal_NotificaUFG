@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Enriqueta-Regular'), url(http://themes.googleusercontent.com/static/fonts/enriqueta/v3/-KTKVm0Mx9ZCRXL9CXVIbT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Enriqueta-Bold'), url(http://themes.googleusercontent.com/static/fonts/enriqueta/v3/I27Pb-wEGH2ajLYP0QrtSHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
