@@ -1,0 +1,13 @@
+Portal para o App Notifica UFG foi desenvolvido para a matéria de Desenvolvimento Web, do curso de Engenharia de Software / UFG.
+Foi utilizado um template inicialmente, para construir a arquitetura de design do site.
+O Portal permite o usuário conhecer mais sobre a UFG, e sobre o aplicativo. Bem como, saber informações de onde baixar o app e também de como entrar em contato com a equipe de desenvolvimento.
+O domínio escolhido para o portal foi: www.notifica.ufg.br 
+
+Para acessar o site, basta fazer o clone do projeto que está em um repositório no github, no link: https://github.com/IasmimR/Portal_NotificaUFG 
+
+Ao fazer o clone da pasta, vá até a pasta raiz do projeto (Portal_NotificaUFG) e abra o arquivo 'notifica.htm' em qualquer navegador web. 
+O site está estruturado para ser acessado também a partir de um dispositivo mobile.
+OBS: O site não está estruturado para ser responsivo.
+
+
+Iasmim Ribeiro.
