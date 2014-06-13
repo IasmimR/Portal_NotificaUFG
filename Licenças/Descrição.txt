@@ -1,0 +1,34 @@
+LICENÇAS
+
+- Imagens UFG: http://www.proec.ufg.br/manualweb/inicio.html
+
+- Imagens pessoas: 
+	- minha imagem, eu mesma era a dona, e eu liberei a exposição.
+	- imagem alunos ufg (aparece na aba UFG) : https://www.flickr.com/photos/antimidia/8659108900/sizes/m/in/photostream/
+	- Outras imagens de pessoas: imagens default do template (http://pt.wix.com/about/features em "Mídias e Galerias" e em http://pt.wix.com/support/main/html5/sobre-wix/informa%C3%A7%C3%B5es-sobre-direitos-autorais "Posso usar as fotos do Wix?")
+	
+	
+- imagem estrutura UFG (na aba UFG): http://www.ufg.br/pages/63495-direitos-autorais
+	
+- Logotipo Windows Store Disponível em: http://msdn.microsoft.com/en-us/library/windows/apps/jj670536.aspx (Acessado em 1 de junho de 2014) 
+
+- Logotipo Google Play. Disponível em: http://developer.android.com/distribute/tools/promote/badges.html (Acessado em 1 de junho de 2014) 
+
+- Logotipo App Store. Disponível em:  https://developer.apple.com/app-store/marketing/guidelines/br/#downloadOnAppstore. (Acessado em 1 de junho de 2014) 
+
+- Imagem smarthphone iPhone - https://www.flickr.com/photos/nicolasfleury/4913283296/sizes/m/in/photolist-8pJWJV-Fmu8N-9sVnJf-9bnMmr-8wkvow-3wcTbc-9qZJAD-9bnWFi-i7SdQF-8uaRWY-8prM2U-5z5baU-6TrRGS-8at413-2U28F-3wep8T-bySXDx-UFe2C-6bSThp-6K6ucE-8g4HF1-agFyEa-4inwq2-cJawN-dp7jQn-8v5yuQ-cdKWQA-3wjpXk-maP7Nz-awfPTp-9p1wou-8g1rH4-8apr6p-kJ2MCk-4cLKvG-9SFC7-4HCbFp-p6LYQ-UE9kX-DNH41-6NQY8A-8bqSZz-HctH2-5vF2oF-4TK6eD-hKoCoh-6rUhN4-KomJ4-aJBm4v-HcuR4/
+
+- Imagem smarthphone Nokia Lumia - https://www.flickr.com/photos/15216811@N06/9819938664/sizes/m/in/photostream/
+
+- Imagem smarthphone Samsung: https://www.flickr.com/photos/15216811@N06/9819938664/sizes/m/in/photostream/
+
+- Imagem da mão com smartphone : https://www.flickr.com/photos/3bilder/4116565827/sizes/l/in/photostream/
+
+- Texto sobre a UFG : http://www.ufg.br/pages/63495-direitos-autorais
+
+- Template e editorde site, utilizado para criação inicial do site: http://pt.wix.com/about/terms-of-use
+Conta no wix: programadoresifetrv@gmail.com
+
+- Ícones redes sociais - http://www.tutoriart.com.br/icones-para-redes-sociais-postal-stamps
+
+- Logomarca do aplicativo - criado em: http://logomarca.gratuita.com.br/
